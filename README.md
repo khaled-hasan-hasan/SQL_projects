@@ -254,10 +254,10 @@ These projects were built using skills from:
 
 I'm actively seeking **Data Analyst** and **BI Developer** roles.
 
-- 💼 **LinkedIn**: [Your Profile](https://www.linkedin.com/in/khaled-hasan-abdo)
-- 📧 **Email**: [](khaled.habdo@gmail.com)
-- 🌐 **Portfolio**: [yourportfolio.com]([https://yourportfolio.com](https://khaled-hasan-hasan.github.io/))
-- 💻 **GitHub**: [@khaled-hasan-hasan](https://github.com/khaled-hasan-hasan)
+- 💼 **LinkedIn**: [Linkedin](https://www.linkedin.com/in/khaled-hasan-abdo)
+- 📧 **Email**: [Gmail](khaled.habdo@gmail.com)
+- 🌐 **Portfolio**: [Portfolio](https://khaled-hasan-hasan.github.io/))
+- 💻 **GitHub**: [Github](https://github.com/khaled-hasan-hasan)
 
 ---
 
